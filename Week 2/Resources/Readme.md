@@ -1,0 +1,1 @@
+This directory contains the resources for week 2 . It includes Text Vectorization using Bag-of-Words, TF-IDF, Logistic Regression and Word Embeddings and Sentence embeddings using gensim Word2Vec Model, Average Word2Vec for sentence embeddings, One Hot Encoding, Continuous Bag of Words(CBOW), Skip-Gram, GloVe, FastText, BERT
